@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Configuration status="info" name="labb1">
+    <Appenders>
+        <Console name="console" target="SYSTEM_OUT">
+        <PatternLayout pattern=
+        "%d %highlight{[%-5level]} : %highlight{[%class{1}]} %msg%n%throwable" />
+        </Console>
+    </Appenders>
+
+    <Loggers>
+        <Root level="debug">
+            <AppenderRef ref="console" />
+        </Root>
+    </Loggers>
+
+
+</Configuration>
+
+
