@@ -1,3 +1,31 @@
+# Requirements 
+Lab in Java enterprise
+In this lab, you will make a first webshop, 
+using a Java application that via JDBC has access
+to a database and has JSP as an interface to the users. 
+This, of course, in a three-layer architecture.
+
+## Grade 3
+● Shopping basket  
+● User identification  
+● Ability to put items in the basket and look in it.  
+● The solution must have a 3-layer architecture.  
+
+## Grade 4
+● You must be able to send orders that must be within a transaction.  
+● User management must be developed so that you can administer them. Different
+authorization classes must also be introduced. (customer, admin, warehouse staff)  
+● A good 3 layer structure must be clear.  
+
+## Grade 5
+● Here we will write part of the administrative part of the system,
+which can be implemented both as HTML or a regular graphical interface.  
+● You must be able to add and edit goods and goods categories.  
+● Warehouse staff must be able to look at orders and 'pack' them.    
+● Of course, for these things you have to have authorization.  
+● You must also implement an MVC structure in combination with
+the 3-layer architecture.  
+
 # Login page
 Where the user can be logged in as a client, warehouse staff, or admin
 ![Login Page](https://github.com/nkey-ops/assignment-web-store/assets/81760194/2983ff8c-72dd-4082-a790-2a58a8fa2768)
