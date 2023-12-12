@@ -27,7 +27,7 @@ which can be implemented both as HTML or a regular graphical interface.
 the 3-layer architecture.  
 
 # Login page
-Where the user can be logged in as a client, warehouse staff, or admin
+Where the user can be logged in as a client, warehouse staff, or admin.
 ![Login Page](https://github.com/nkey-ops/assignment-web-store/assets/81760194/2983ff8c-72dd-4082-a790-2a58a8fa2768)
 
 # Client: Products List
@@ -71,5 +71,5 @@ The ability to create new products and categories is also provided to an admin.
 ![Admin Product Form](https://github.com/nkey-ops/assignment-web-store/assets/81760194/6e9c11c9-dc4a-448b-a9b0-52fed5dd8193)
 
 # Admin: Edit Product Form
-Already created products can be edited by an admin. 
+Already created product can be edited by an admin. 
 ![Admin Edit Product Form](https://github.com/nkey-ops/assignment-web-store/assets/81760194/fa52d3cb-3952-4239-aba7-6ba388d5d21a)
